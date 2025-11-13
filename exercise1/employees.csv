@@ -1,0 +1,4 @@
+employeeId,firstName,lastName,email,status
+E001,Laura,Bennett,laura.bennett@example.com,Active
+E002,Thomas,Carter,thomas.carter@example.com,Active
+E003,Nancy,Douglas,nancy.douglas@example.com,Inactive

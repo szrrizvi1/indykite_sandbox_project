@@ -1,0 +1,101 @@
+bookId,title,year,author
+B001,To Kill a Mockingbird,1960,Harper Lee
+B002,1984,1949,George Orwell
+B003,Pride and Prejudice,1813,Jane Austen
+B004,The Great Gatsby,1925,F. Scott Fitzgerald
+B005,Moby-Dick,1851,Herman Melville
+B006,War and Peace,1869,Leo Tolstoy
+B007,Ulysses,1922,James Joyce
+B008,Crime and Punishment,1866,Fyodor Dostoevsky
+B009,The Catcher in the Rye,1951,J. D. Salinger
+B010,The Lord of the Rings,1954,J. R. R. Tolkien
+B011,Jane Eyre,1847,Charlotte Brontë
+B012,Wuthering Heights,1847,Emily Brontë
+B013,Brave New World,1932,Aldous Huxley
+B014,The Hobbit,1937,J. R. R. Tolkien
+B015,The Music of Erich Zann,1922,H. P. Lovecraft
+B016,The Call of Cthulhu,1928,H. P. Lovecraft
+B017,Anna Karenina,1877,Leo Tolstoy
+B018,Les Misérables,1862,Victor Hugo
+B019,Great Expectations,1861,Charles Dickens
+B020,A Tale of Two Cities,1859,Charles Dickens
+B021,The Divine Comedy,1320,Dante Alighieri
+B022,Don Quixote,1605,Miguel de Cervantes
+B023,The Brothers Karamazov,1880,Fyodor Dostoevsky
+B024,One Hundred Years of Solitude,1967,Gabriel García Márquez
+B025,Fahrenheit 451,1953,Ray Bradbury
+B026,The Grapes of Wrath,1939,John Steinbeck
+B027,The Sun Also Rises,1926,Ernest Hemingway
+B028,The Old Man and the Sea,1952,Ernest Hemingway
+B029,Slaughterhouse-Five,1969,Kurt Vonnegut
+B030,The Stranger,1942,Albert Camus
+B031,The Sound and the Fury,1929,William Faulkner
+B032,Beloved,1987,Toni Morrison
+B033,The Handmaid's Tale,1985,Margaret Atwood
+B034,The Scarlet Letter,1850,Nathaniel Hawthorne
+B035,The Picture of Dorian Gray,1890,Oscar Wilde
+B036,The Metamorphosis,1915,Franz Kafka
+B037,The Kite Runner,2003,Khaled Hosseini
+B038,Life of Pi,2001,Yann Martel
+B039,The Road,2006,Cormac McCarthy
+B040,The Name of the Rose,1980,Umberto Eco
+B041,The Alchemist,1988,Paulo Coelho
+B042,The Da Vinci Code,2003,Dan Brown
+B043,Harry Potter and the Philosopher's Stone,1997,J. K. Rowling
+B044,The Girl with the Dragon Tattoo,2005,Stieg Larsson
+B045,The Hunger Games,2008,Suzanne Collins
+B046,The Book Thief,2005,Markus Zusak
+B047,Gone with the Wind,1936,Margaret Mitchell
+B048,The Color Purple,1982,Alice Walker
+B049,Water for Elephants,2006,Sara Gruen
+B050,The Giver,1993,Lois Lowry
+B051,The Shining,1977,Stephen King
+B052,The Martian,2011,Andy Weir
+B053,All the Light We Cannot See,2014,Anthony Doerr
+B054,Outlander,1991,Diana Gabaldon
+B055,The Hitchhiker's Guide to the Galaxy,1979,Douglas Adams
+B056,American Gods,2001,Neil Gaiman
+B057,A Game of Thrones,1996,George R. R. Martin
+B058,The Help,2009,Kathryn Stockett
+B059,The Shadow of the Wind,2001,Carlos Ruiz Zafón
+B060,The Lovely Bones,2002,Alice Sebold
+B061,The Time Traveler's Wife,2003,Audrey Niffenegger
+B062,The Maze Runner,2009,James Dashner
+B063,Ender's Game,1985,Orson Scott Card
+B064,The Girl in the Spider's Web,2015,David Lagercrantz
+B065,Ready Player One,2011,Ernest Cline
+B066,The Lightning Thief,2005,Rick Riordan
+B067,Twilight,2005,Stephenie Meyer
+B068,Harry Potter and the Deathly Hallows,2007,J. K. Rowling
+B069,The Name of the Wind,2007,Patrick Rothfuss
+B070,The Goldfinch,2013,Donna Tartt
+B071,Gone Girl,2012,Gillian Flynn
+B072,Sapiens: A Brief History of Humankind,2011,Yuval Noah Harari
+B073,The Subtle Art of Not Giving a F*ck,2016,Mark Manson
+B074,Educated,2018,Tara Westover
+B075,Where the Crawdads Sing,2018,Delia Owens
+B076,The Midnight Library,2020,Matt Haig
+B077,Normal People,2018,Sally Rooney
+B078,The Vanishing Half,2020,Brit Bennett
+B079,Circe,2018,Madeline Miller
+B080,The Testaments,2019,Margaret Atwood
+B081,The Institute,2019,Stephen King
+B082,The Night Circus,2011,Erin Morgenstern
+B083,The Hate U Give,2017,Angie Thomas
+B084,The Silent Patient,2019,Alex Michaelides
+B085,The Four Winds,2021,Kristin Hannah
+B086,Project Hail Mary,2021,Andy Weir
+B087,Klara and the Sun,2021,Kazuo Ishiguro
+B088,The Priory of the Orange Tree,2019,Samantha Shannon
+B089,Dune,1965,Frank Herbert
+B090,Neuromancer,1984,William Gibson
+B091,A Wrinkle in Time,1962,Madeleine L’Engle
+B092,The Outsiders,1967,S. E. Hinton
+B093,The Call of the Wild,1903,Jack London
+B094,The Jungle,1906,Upton Sinclair
+B095,Dracula,1897,Bram Stoker
+B096,Frankenstein,1818,Mary Shelley
+B097,The Count of Monte Cristo,1844,Alexandre Dumas
+B098,The Three Musketeers,1844,Alexandre Dumas
+B099,The Pilgrim's Progress,1678,John Bunyan
+B100,The Secret Garden,1911,Frances Hodgson Burnett

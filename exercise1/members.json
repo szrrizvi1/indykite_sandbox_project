@@ -1,0 +1,224 @@
+{
+  "nodes": [
+    {
+      "external_id": "M001",
+      "type": "Member",
+      "is_identity": true,
+      "properties": [
+        { "type": "firstName", "value": "John" },
+        { "type": "lastName", "value": "Anderson" },
+        { "type": "email", "value": "john.anderson@example.com" },
+        { "type": "status", "value": "Active" }
+      ]
+    },
+    {
+      "external_id": "M002",
+      "type": "Member",
+      "is_identity": true,
+      "properties": [
+        { "type": "firstName", "value": "Sarah" },
+        { "type": "lastName", "value": "Brown" },
+        { "type": "email", "value": "sarah.brown@example.com" },
+        { "type": "status", "value": "Active" }
+      ]
+    },
+    {
+      "external_id": "M003",
+      "type": "Member",
+      "is_identity": true,
+      "properties": [
+        { "type": "firstName", "value": "Michael" },
+        { "type": "lastName", "value": "Clark" },
+        { "type": "email", "value": "michael.clark@example.com" },
+        { "type": "status", "value": "Inactive" }
+      ]
+    },
+    {
+      "external_id": "M004",
+      "type": "Member",
+      "is_identity": true,
+      "properties": [
+        { "type": "firstName", "value": "Emily" },
+        { "type": "lastName", "value": "Davis" },
+        { "type": "email", "value": "emily.davis@example.com" },
+        { "type": "status", "value": "Active" }
+      ]
+    },
+    {
+      "external_id": "M005",
+      "type": "Member",
+      "is_identity": true,
+      "properties": [
+        { "type": "firstName", "value": "David" },
+        { "type": "lastName", "value": "Edwards" },
+        { "type": "email", "value": "david.edwards@example.com" },
+        { "type": "status", "value": "Active" }
+      ]
+    },
+    {
+      "external_id": "M006",
+      "type": "Member",
+      "is_identity": true,
+      "properties": [
+        { "type": "firstName", "value": "Linda" },
+        { "type": "lastName", "value": "Foster" },
+        { "type": "email", "value": "linda.foster@example.com" },
+        { "type": "status", "value": "Suspended" }
+      ]
+    },
+    {
+      "external_id": "M007",
+      "type": "Member",
+      "is_identity": true,
+      "properties": [
+        { "type": "firstName", "value": "Robert" },
+        { "type": "lastName", "value": "Gibson" },
+        { "type": "email", "value": "robert.gibson@example.com" },
+        { "type": "status", "value": "Active" }
+      ]
+    },
+    {
+      "external_id": "M008",
+      "type": "Member",
+      "is_identity": true,
+      "properties": [
+        { "type": "firstName", "value": "Karen" },
+        { "type": "lastName", "value": "Hughes" },
+        { "type": "email", "value": "karen.hughes@example.com" },
+        { "type": "status", "value": "Active" }
+      ]
+    },
+    {
+      "external_id": "M009",
+      "type": "Member",
+      "is_identity": true,
+      "properties": [
+        { "type": "firstName", "value": "James" },
+        { "type": "lastName", "value": "Ingram" },
+        { "type": "email", "value": "james.ingram@example.com" },
+        { "type": "status", "value": "Inactive" }
+      ]
+    },
+    {
+      "external_id": "M010",
+      "type": "Member",
+      "is_identity": true,
+      "properties": [
+        { "type": "firstName", "value": "Patricia" },
+        { "type": "lastName", "value": "Johnson" },
+        { "type": "email", "value": "patricia.johnson@example.com" },
+        { "type": "status", "value": "Active" }
+      ]
+    },
+    {
+      "external_id": "M011",
+      "type": "Member",
+      "is_identity": true,
+      "properties": [
+        { "type": "firstName", "value": "Christopher" },
+        { "type": "lastName", "value": "Knight" },
+        { "type": "email", "value": "chris.knight@example.com" },
+        { "type": "status", "value": "Active" }
+      ]
+    },
+    {
+      "external_id": "M012",
+      "type": "Member",
+      "is_identity": true,
+      "properties": [
+        { "type": "firstName", "value": "Amanda" },
+        { "type": "lastName", "value": "Lewis" },
+        { "type": "email", "value": "amanda.lewis@example.com" },
+        { "type": "status", "value": "Active" }
+      ]
+    },
+    {
+      "external_id": "M013",
+      "type": "Member",
+      "is_identity": true,
+      "properties": [
+        { "type": "firstName", "value": "Matthew" },
+        { "type": "lastName", "value": "Moore" },
+        { "type": "email", "value": "matthew.moore@example.com" },
+        { "type": "status", "value": "Suspended" }
+      ]
+    },
+    {
+      "external_id": "M014",
+      "type": "Member",
+      "is_identity": true,
+      "properties": [
+        { "type": "firstName", "value": "Jennifer" },
+        { "type": "lastName", "value": "Nelson" },
+        { "type": "email", "value": "jennifer.nelson@example.com" },
+        { "type": "status", "value": "Active" }
+      ]
+    },
+    {
+      "external_id": "M015",
+      "type": "Member",
+      "is_identity": true,
+      "properties": [
+        { "type": "firstName", "value": "Anthony" },
+        { "type": "lastName", "value": "Owens" },
+        { "type": "email", "value": "anthony.owens@example.com" },
+        { "type": "status", "value": "Active" }
+      ]
+    },
+    {
+      "external_id": "M016",
+      "type": "Member",
+      "is_identity": true,
+      "properties": [
+        { "type": "firstName", "value": "Michelle" },
+        { "type": "lastName", "value": "Parker" },
+        { "type": "email", "value": "michelle.parker@example.com" },
+        { "type": "status", "value": "Inactive" }
+      ]
+    },
+    {
+      "external_id": "M017",
+      "type": "Member",
+      "is_identity": true,
+      "properties": [
+        { "type": "firstName", "value": "Steven" },
+        { "type": "lastName", "value": "Quinn" },
+        { "type": "email", "value": "steven.quinn@example.com" },
+        { "type": "status", "value": "Active" }
+      ]
+    },
+    {
+      "external_id": "M018",
+      "type": "Member",
+      "is_identity": true,
+      "properties": [
+        { "type": "firstName", "value": "Elizabeth" },
+        { "type": "lastName", "value": "Ross" },
+        { "type": "email", "value": "elizabeth.ross@example.com" },
+        { "type": "status", "value": "Active" }
+      ]
+    },
+    {
+      "external_id": "M019",
+      "type": "Member",
+      "is_identity": true,
+      "properties": [
+        { "type": "firstName", "value": "Daniel" },
+        { "type": "lastName", "value": "Scott" },
+        { "type": "email", "value": "daniel.scott@example.com" },
+        { "type": "status", "value": "Active" }
+      ]
+    },
+    {
+      "external_id": "M020",
+      "type": "Member",
+      "is_identity": true,
+      "properties": [
+        { "type": "firstName", "value": "Rebecca" },
+        { "type": "lastName", "value": "Taylor" },
+        { "type": "email", "value": "rebecca.taylor@example.com" },
+        { "type": "status", "value": "Active" }
+      ]
+    }
+  ]
+}

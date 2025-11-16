@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "external_id": "E001",
+      "type": "Employee",
+      "is_identity": true,
+      "properties": [
+        { "type": "firstName", "value": "Laura" },
+        { "type": "lastName", "value": "Bennett" },
+        { "type": "email", "value": "laura.bennett@example.com" },
+        { "type": "status", "value": "Active" }
+      ]
+    },
+    {
+      "external_id": "E002",
+      "type": "Employee",
+      "is_identity": true,
+      "properties": [
+        { "type": "firstName", "value": "Thomas" },
+        { "type": "lastName", "value": "Carter" },
+        { "type": "email", "value": "thomas.carter@example.com" },
+        { "type": "status", "value": "Active" }
+      ]
+    },
+    {
+      "external_id": "E003",
+      "type": "Employee",
+      "is_identity": true,
+      "properties": [
+        { "type": "firstName", "value": "Nancy" },
+        { "type": "lastName", "value": "Douglas" },
+        { "type": "email", "value": "nancy.douglas@example.com" },
+        { "type": "status", "value": "Inactive" }
+      ]
+    }
+  ]
+}

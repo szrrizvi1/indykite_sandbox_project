@@ -146,6 +146,176 @@
 					}
 				}
 			]
+		},
+		{
+			"name": "AuthZen Calls",
+			"item": [
+				{
+					"name": "Member READ Book - Allowed",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"action\": {\n    \"name\": \"READ\"\n  },\n  \"resource\": {\n    \"id\": \"B015\",\n    \"type\": \"Book\"\n  },\n  \"subject\": {\n    \"id\": \"M001\",\n    \"type\": \"Member\"\n  }\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://us.api.indykite.com/access/v1/evaluation",
+							"protocol": "https",
+							"host": [
+								"us",
+								"api",
+								"indykite",
+								"com"
+							],
+							"path": [
+								"access",
+								"v1",
+								"evaluation"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Member READ Book - Not Allowed",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"action\": {\n    \"name\": \"READ\"\n  },\n  \"resource\": {\n    \"id\": \"X001\",\n    \"type\": \"Book\"\n  },\n  \"subject\": {\n    \"id\": \"M001\",\n    \"type\": \"Member\"\n  }\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://us.api.indykite.com/access/v1/evaluation",
+							"protocol": "https",
+							"host": [
+								"us",
+								"api",
+								"indykite",
+								"com"
+							],
+							"path": [
+								"access",
+								"v1",
+								"evaluation"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Employee READ Member - Allowed",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"action\": {\n    \"name\": \"READ\"\n  },\n  \"resource\": {\n    \"id\": \"M010\",\n    \"type\": \"Member\"\n  },\n  \"subject\": {\n    \"id\": \"E001\",\n    \"type\": \"Employee\"\n  }\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://us.api.indykite.com/access/v1/evaluation",
+							"protocol": "https",
+							"host": [
+								"us",
+								"api",
+								"indykite",
+								"com"
+							],
+							"path": [
+								"access",
+								"v1",
+								"evaluation"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Employee READ Member - Not Allowed",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"action\": {\n    \"name\": \"READ\"\n  },\n  \"resource\": {\n    \"id\": \"M030\",\n    \"type\": \"Member\"\n  },\n  \"subject\": {\n    \"id\": \"E001\",\n    \"type\": \"Employee\"\n  }\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://us.api.indykite.com/access/v1/evaluation",
+							"protocol": "https",
+							"host": [
+								"us",
+								"api",
+								"indykite",
+								"com"
+							],
+							"path": [
+								"access",
+								"v1",
+								"evaluation"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"auth": {
+				"type": "apikey",
+				"apikey": [
+					{
+						"key": "value",
+						"value": "{{AppAgentCreds}}",
+						"type": "string"
+					},
+					{
+						"key": "key",
+						"value": "X-IK-ClientKey",
+						"type": "string"
+					}
+				]
+			},
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"type": "text/javascript",
+						"packages": {},
+						"exec": [
+							""
+						]
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"packages": {},
+						"exec": [
+							""
+						]
+					}
+				}
+			]
 		}
 	],
 	"event": [

@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "policyVersion": "1.0-kbac"
+  },
+  "subject": {
+    "type": "Member"
+  },
+  "actions": [
+    "READ"
+  ],
+  "resource": {
+    "type": "Book"
+  },
+  "condition": {
+    "cypher": "MATCH (subject) MATCH (resource)"
+  }
+}
